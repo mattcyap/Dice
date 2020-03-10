@@ -1,0 +1,1 @@
+A program that simulates rolling a dice multiple times and shows the results. 
